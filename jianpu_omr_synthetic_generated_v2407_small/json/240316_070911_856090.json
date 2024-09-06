@@ -1,0 +1,177 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_right": 0,
+            "underline_0": 2
+        }
+    ],
+    "time_signatures": [],
+    "appogs": [
+        {
+            "align_id": 12,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 1,
+                    "dot_bottom": 1
+                },
+                {
+                    "note_type": "number",
+                    "number": 7
+                }
+            ]
+        }
+    ],
+    "curves": [
+        {
+            "curve_type": "simple",
+            "begin_id": 0,
+            "end_id": 8
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 13,
+            "end_id": 19
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 12,
+            "end_id": 19
+        }
+    ],
+    "underlines": [
+        {
+            "begin_id": 12,
+            "end_id": 12
+        },
+        {
+            "begin_id": 16,
+            "end_id": 16
+        }
+    ],
+    "barlines": [
+        {
+            "barline_type": "Simple",
+            "pos_id": 4
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 8
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 12
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 17
+        }
+    ],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6c5f",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9f0e",
+                "align_at": 12
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5e74",
+                "align_at": 20
+            }
+        ]
+    ]
+}

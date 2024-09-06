@@ -1,0 +1,57 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 2,
+            "dot_right": 1,
+            "underline_0": 1
+        }
+    ],
+    "time_signatures": [],
+    "appogs": [
+        {
+            "align_id": 0,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 4
+                }
+            ]
+        }
+    ],
+    "curves": [
+        {
+            "curve_type": "simple",
+            "begin_id": 0,
+            "end_id": 2
+        }
+    ],
+    "underlines": [],
+    "barlines": [
+        {
+            "barline_type": "Simple",
+            "pos_id": 2
+        }
+    ],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u72af",
+                "align_at": 0
+            }
+        ]
+    ]
+}

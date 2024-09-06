@@ -1,0 +1,95 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        }
+    ],
+    "time_signatures": [
+        {
+            "ts_type": "fraction",
+            "ts_top": "6",
+            "ts_bottom": "4",
+            "pos_id": 0
+        }
+    ],
+    "appogs": [],
+    "curves": [],
+    "underlines": [],
+    "barlines": [],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8fde",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u81f4",
+                "align_at": 2
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6751",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6cbc",
+                "align_at": 2
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u90a3",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u60ef",
+                "align_at": 2
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6302",
+                "align_at": 0
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u90a3",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5dde",
+                "align_at": 2
+            }
+        ]
+    ]
+}

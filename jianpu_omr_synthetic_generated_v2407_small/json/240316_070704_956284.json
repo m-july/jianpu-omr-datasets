@@ -1,0 +1,148 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        }
+    ],
+    "time_signatures": [
+        {
+            "ts_type": "fraction",
+            "ts_top": "5",
+            "ts_bottom": "4",
+            "pos_id": 0
+        }
+    ],
+    "appogs": [
+        {
+            "align_id": 2,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 4,
+                    "dot_bottom": 1
+                },
+                {
+                    "note_type": "number",
+                    "number": 7,
+                    "dot_top": 2
+                },
+                {
+                    "note_type": "number",
+                    "number": 6,
+                    "dot_top": 1
+                }
+            ]
+        }
+    ],
+    "curves": [
+        {
+            "curve_type": "simple",
+            "begin_id": 0,
+            "end_id": 1
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 3,
+            "end_id": 4
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 2,
+            "end_id": 5
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 6,
+            "end_id": 7
+        }
+    ],
+    "underlines": [
+        {
+            "begin_id": 1,
+            "end_id": 1
+        },
+        {
+            "begin_id": 4,
+            "end_id": 6
+        }
+    ],
+    "barlines": [
+        {
+            "barline_type": "Simple",
+            "pos_id": 7
+        }
+    ],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6cb3",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9634",
+                "align_at": 2
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5b66",
+                "align_at": 5
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6709",
+                "align_at": 6
+            }
+        ]
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        }
+    ],
+    "time_signatures": [
+        {
+            "ts_type": "fraction",
+            "ts_top": "5",
+            "ts_bottom": "4",
+            "pos_id": 0
+        }
+    ],
+    "appogs": [
+        {
+            "align_id": 13,
+            "orientation": "after",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 0,
+                    "dot_bottom": 1
+                }
+            ]
+        }
+    ],
+    "curves": [
+        {
+            "curve_type": "simple",
+            "begin_id": 0,
+            "end_id": 3
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 4,
+            "end_id": 5
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 6,
+            "end_id": 7
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 11,
+            "end_id": 13
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 8,
+            "end_id": 13
+        }
+    ],
+    "underlines": [
+        {
+            "begin_id": 3,
+            "end_id": 6
+        },
+        {
+            "begin_id": 6,
+            "end_id": 6
+        },
+        {
+            "begin_id": 7,
+            "end_id": 7
+        },
+        {
+            "begin_id": 12,
+            "end_id": 12
+        },
+        {
+            "begin_id": 12,
+            "end_id": 12
+        }
+    ],
+    "barlines": [
+        {
+            "barline_type": "Simple",
+            "pos_id": 7
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 13
+        }
+    ],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9633",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u582a",
+                "align_at": 3
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9690",
+                "align_at": 4
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u54a8",
+                "align_at": 6
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6838",
+                "align_at": 8
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9752",
+                "align_at": 6
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u83dc",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7476",
+                "align_at": 6
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5c0f",
+                "align_at": 8
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4fbf",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u773c",
+                "align_at": 4
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5e7f",
+                "align_at": 6
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5076",
+                "align_at": 8
+            }
+        ]
+    ]
+}

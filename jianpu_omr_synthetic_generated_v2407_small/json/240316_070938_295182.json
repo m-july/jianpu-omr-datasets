@@ -1,0 +1,95 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_right": 0,
+            "underline_0": 4
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 1
+        }
+    ],
+    "time_signatures": [],
+    "appogs": [
+        {
+            "align_id": 1,
+            "orientation": "after",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 4
+                },
+                {
+                    "note_type": "number",
+                    "number": 7
+                },
+                {
+                    "note_type": "number",
+                    "number": 4,
+                    "dot_top": 2
+                }
+            ]
+        },
+        {
+            "align_id": 2,
+            "orientation": "after",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 6
+                }
+            ]
+        }
+    ],
+    "curves": [
+        {
+            "curve_type": "simple",
+            "begin_id": 0,
+            "end_id": 2
+        }
+    ],
+    "underlines": [
+        {
+            "begin_id": 1,
+            "end_id": 1
+        },
+        {
+            "begin_id": 1,
+            "end_id": 1
+        },
+        {
+            "begin_id": 1,
+            "end_id": 1
+        }
+    ],
+    "barlines": [],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u73b2",
+                "align_at": 0
+            }
+        ],
+        [],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7c73",
+                "align_at": 0
+            }
+        ],
+        []
+    ]
+}

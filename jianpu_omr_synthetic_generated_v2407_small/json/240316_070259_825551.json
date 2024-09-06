@@ -1,0 +1,70 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 3
+        }
+    ],
+    "time_signatures": [
+        {
+            "ts_type": "fraction",
+            "ts_top": "7",
+            "ts_bottom": "4",
+            "pos_id": 0
+        }
+    ],
+    "appogs": [],
+    "curves": [],
+    "underlines": [],
+    "barlines": [],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9ec4",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u53ef",
+                "align_at": 2
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6837",
+                "align_at": 3
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7b52",
+                "align_at": 2
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5f00",
+                "align_at": 3
+            }
+        ]
+    ]
+}

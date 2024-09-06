@@ -1,0 +1,72 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        }
+    ],
+    "time_signatures": [],
+    "appogs": [],
+    "curves": [],
+    "underlines": [],
+    "barlines": [],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8776",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6bcf",
+                "align_at": 1
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e8b",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u662f",
+                "align_at": 1
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6df1",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9694",
+                "align_at": 1
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u65b0",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5929",
+                "align_at": 1
+            }
+        ]
+    ]
+}

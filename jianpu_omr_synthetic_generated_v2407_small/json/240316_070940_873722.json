@@ -1,0 +1,35 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_right": 0,
+            "underline_0": 0
+        }
+    ],
+    "time_signatures": [
+        {
+            "ts_type": "rubato",
+            "pos_id": 0
+        }
+    ],
+    "appogs": [],
+    "curves": [],
+    "underlines": [],
+    "barlines": [
+        {
+            "barline_type": "Simple",
+            "pos_id": 1
+        }
+    ],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5371",
+                "align_at": 0
+            }
+        ],
+        []
+    ]
+}

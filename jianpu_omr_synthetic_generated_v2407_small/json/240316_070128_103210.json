@@ -1,0 +1,2523 @@
+{
+    "notes": [
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_bottom": 2,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_bottom": 3,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_top": 2,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_bottom": 2,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_bottom": 2,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 2,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_top": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 2,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_top": 1,
+            "dot_right": 1,
+            "underline_0": 3
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_right": 0,
+            "underline_0": 3
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 1,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 4
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 1,
+            "underline_0": 3
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_top": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_bottom": 2,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_bottom": 2,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 1,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 4
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_top": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 1,
+            "underline_0": 3
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 3,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_right": 0,
+            "underline_0": 4
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_top": 1,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 2,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 0,
+            "dot_bottom": 2,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "bar"
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 4,
+            "dot_bottom": 1,
+            "dot_right": 0,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 6,
+            "dot_top": 2,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 1,
+            "underline_0": 1
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 2,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 2
+        },
+        {
+            "note_type": "number",
+            "number": 5,
+            "dot_right": 0,
+            "underline_0": 0
+        },
+        {
+            "note_type": "number",
+            "number": 7,
+            "dot_top": 1,
+            "dot_right": 0,
+            "underline_0": 0
+        }
+    ],
+    "time_signatures": [
+        {
+            "ts_type": "fraction",
+            "ts_top": "4",
+            "ts_bottom": "4",
+            "pos_id": 0
+        },
+        {
+            "ts_type": "fraction",
+            "ts_top": "12",
+            "ts_bottom": "8",
+            "pos_id": 22
+        },
+        {
+            "ts_type": "fraction",
+            "ts_top": "6",
+            "ts_bottom": "8",
+            "pos_id": 41
+        }
+    ],
+    "appogs": [
+        {
+            "align_id": 14,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 5,
+                    "dot_top": 2
+                }
+            ]
+        },
+        {
+            "align_id": 18,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 5
+                },
+                {
+                    "note_type": "number",
+                    "number": 7
+                }
+            ]
+        },
+        {
+            "align_id": 19,
+            "orientation": "after",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 5
+                }
+            ]
+        },
+        {
+            "align_id": 20,
+            "orientation": "after",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 2,
+                    "dot_top": 2
+                },
+                {
+                    "note_type": "number",
+                    "number": 1,
+                    "dot_bottom": 1
+                }
+            ]
+        },
+        {
+            "align_id": 24,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 6
+                }
+            ]
+        },
+        {
+            "align_id": 53,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 3,
+                    "dot_top": 2
+                }
+            ]
+        },
+        {
+            "align_id": 87,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 3
+                }
+            ]
+        },
+        {
+            "align_id": 123,
+            "orientation": "after",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 4,
+                    "dot_bottom": 1
+                },
+                {
+                    "note_type": "number",
+                    "number": 7,
+                    "dot_bottom": 1
+                }
+            ]
+        },
+        {
+            "align_id": 127,
+            "orientation": "before",
+            "notes": [
+                {
+                    "note_type": "number",
+                    "number": 7,
+                    "dot_bottom": 1
+                },
+                {
+                    "note_type": "number",
+                    "number": 0,
+                    "dot_bottom": 1
+                }
+            ]
+        }
+    ],
+    "curves": [
+        {
+            "curve_type": "simple",
+            "begin_id": 3,
+            "end_id": 11
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 2,
+            "end_id": 11
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 14,
+            "end_id": 15
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 14,
+            "end_id": 16
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 18,
+            "end_id": 21
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 23,
+            "end_id": 27
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 29,
+            "end_id": 31
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 32,
+            "end_id": 33
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 34,
+            "end_id": 35
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 40,
+            "end_id": 41
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 42,
+            "end_id": 45
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 40,
+            "end_id": 45
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 48,
+            "end_id": 50
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 54,
+            "end_id": 57
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 53,
+            "end_id": 58
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 59,
+            "end_id": 64
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 59,
+            "end_id": 65
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 66,
+            "end_id": 68
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 71,
+            "end_id": 73
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 74,
+            "end_id": 76
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 71,
+            "end_id": 76
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 78,
+            "end_id": 83
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 84,
+            "end_id": 86
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 87,
+            "end_id": 89
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 91,
+            "end_id": 92
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 93,
+            "end_id": 95
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 93,
+            "end_id": 96
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 97,
+            "end_id": 98
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 101,
+            "end_id": 105
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 106,
+            "end_id": 107
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 101,
+            "end_id": 108
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 110,
+            "end_id": 111
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 115,
+            "end_id": 116
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 117,
+            "end_id": 120
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 115,
+            "end_id": 120
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 122,
+            "end_id": 123
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 124,
+            "end_id": 126
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 121,
+            "end_id": 126
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 127,
+            "end_id": 128
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 129,
+            "end_id": 130
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 133,
+            "end_id": 134
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 135,
+            "end_id": 136
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 139,
+            "end_id": 140
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 142,
+            "end_id": 143
+        },
+        {
+            "curve_type": "simple",
+            "begin_id": 141,
+            "end_id": 143
+        }
+    ],
+    "underlines": [
+        {
+            "begin_id": 0,
+            "end_id": 0
+        },
+        {
+            "begin_id": 4,
+            "end_id": 4
+        },
+        {
+            "begin_id": 11,
+            "end_id": 14
+        },
+        {
+            "begin_id": 15,
+            "end_id": 15
+        },
+        {
+            "begin_id": 17,
+            "end_id": 20
+        },
+        {
+            "begin_id": 19,
+            "end_id": 20
+        },
+        {
+            "begin_id": 23,
+            "end_id": 26
+        },
+        {
+            "begin_id": 26,
+            "end_id": 26
+        },
+        {
+            "begin_id": 28,
+            "end_id": 28
+        },
+        {
+            "begin_id": 30,
+            "end_id": 30
+        },
+        {
+            "begin_id": 31,
+            "end_id": 31
+        },
+        {
+            "begin_id": 31,
+            "end_id": 32
+        },
+        {
+            "begin_id": 35,
+            "end_id": 36
+        },
+        {
+            "begin_id": 35,
+            "end_id": 37
+        },
+        {
+            "begin_id": 35,
+            "end_id": 38
+        },
+        {
+            "begin_id": 40,
+            "end_id": 40
+        },
+        {
+            "begin_id": 41,
+            "end_id": 41
+        },
+        {
+            "begin_id": 44,
+            "end_id": 44
+        },
+        {
+            "begin_id": 45,
+            "end_id": 47
+        },
+        {
+            "begin_id": 49,
+            "end_id": 49
+        },
+        {
+            "begin_id": 51,
+            "end_id": 51
+        },
+        {
+            "begin_id": 50,
+            "end_id": 53
+        },
+        {
+            "begin_id": 55,
+            "end_id": 55
+        },
+        {
+            "begin_id": 55,
+            "end_id": 55
+        },
+        {
+            "begin_id": 57,
+            "end_id": 58
+        },
+        {
+            "begin_id": 58,
+            "end_id": 58
+        },
+        {
+            "begin_id": 58,
+            "end_id": 58
+        },
+        {
+            "begin_id": 58,
+            "end_id": 58
+        },
+        {
+            "begin_id": 60,
+            "end_id": 60
+        },
+        {
+            "begin_id": 60,
+            "end_id": 60
+        },
+        {
+            "begin_id": 60,
+            "end_id": 60
+        },
+        {
+            "begin_id": 64,
+            "end_id": 64
+        },
+        {
+            "begin_id": 67,
+            "end_id": 67
+        },
+        {
+            "begin_id": 67,
+            "end_id": 67
+        },
+        {
+            "begin_id": 68,
+            "end_id": 68
+        },
+        {
+            "begin_id": 71,
+            "end_id": 71
+        },
+        {
+            "begin_id": 71,
+            "end_id": 71
+        },
+        {
+            "begin_id": 73,
+            "end_id": 73
+        },
+        {
+            "begin_id": 75,
+            "end_id": 75
+        },
+        {
+            "begin_id": 75,
+            "end_id": 75
+        },
+        {
+            "begin_id": 76,
+            "end_id": 76
+        },
+        {
+            "begin_id": 76,
+            "end_id": 77
+        },
+        {
+            "begin_id": 90,
+            "end_id": 90
+        },
+        {
+            "begin_id": 90,
+            "end_id": 90
+        },
+        {
+            "begin_id": 92,
+            "end_id": 93
+        },
+        {
+            "begin_id": 93,
+            "end_id": 93
+        },
+        {
+            "begin_id": 95,
+            "end_id": 97
+        },
+        {
+            "begin_id": 98,
+            "end_id": 98
+        },
+        {
+            "begin_id": 98,
+            "end_id": 98
+        },
+        {
+            "begin_id": 100,
+            "end_id": 100
+        },
+        {
+            "begin_id": 102,
+            "end_id": 102
+        },
+        {
+            "begin_id": 102,
+            "end_id": 102
+        },
+        {
+            "begin_id": 105,
+            "end_id": 106
+        },
+        {
+            "begin_id": 106,
+            "end_id": 106
+        },
+        {
+            "begin_id": 107,
+            "end_id": 108
+        },
+        {
+            "begin_id": 108,
+            "end_id": 108
+        },
+        {
+            "begin_id": 113,
+            "end_id": 113
+        },
+        {
+            "begin_id": 113,
+            "end_id": 113
+        },
+        {
+            "begin_id": 113,
+            "end_id": 113
+        },
+        {
+            "begin_id": 113,
+            "end_id": 115
+        },
+        {
+            "begin_id": 115,
+            "end_id": 115
+        },
+        {
+            "begin_id": 115,
+            "end_id": 115
+        },
+        {
+            "begin_id": 116,
+            "end_id": 116
+        },
+        {
+            "begin_id": 119,
+            "end_id": 119
+        },
+        {
+            "begin_id": 119,
+            "end_id": 119
+        },
+        {
+            "begin_id": 120,
+            "end_id": 121
+        },
+        {
+            "begin_id": 123,
+            "end_id": 124
+        },
+        {
+            "begin_id": 124,
+            "end_id": 124
+        },
+        {
+            "begin_id": 126,
+            "end_id": 126
+        },
+        {
+            "begin_id": 126,
+            "end_id": 127
+        },
+        {
+            "begin_id": 129,
+            "end_id": 129
+        },
+        {
+            "begin_id": 129,
+            "end_id": 129
+        },
+        {
+            "begin_id": 130,
+            "end_id": 130
+        },
+        {
+            "begin_id": 132,
+            "end_id": 133
+        },
+        {
+            "begin_id": 133,
+            "end_id": 133
+        },
+        {
+            "begin_id": 133,
+            "end_id": 133
+        },
+        {
+            "begin_id": 130,
+            "end_id": 134
+        },
+        {
+            "begin_id": 140,
+            "end_id": 142
+        },
+        {
+            "begin_id": 143,
+            "end_id": 144
+        },
+        {
+            "begin_id": 143,
+            "end_id": 144
+        }
+    ],
+    "barlines": [
+        {
+            "barline_type": "Simple",
+            "pos_id": 5
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 9
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 15
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 22
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 31
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 41
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 45
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 50
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 56
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 61
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 64
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 68
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 72
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 76
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 80
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 83
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 86
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 89
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 94
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 98
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 103
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 107
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 111
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 116
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 120
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 125
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 130
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 136
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 139
+        },
+        {
+            "barline_type": "Simple",
+            "pos_id": 143
+        }
+    ],
+    "lyrics": [
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u575f",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u80a9",
+                "align_at": 1
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9aa4",
+                "align_at": 2
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u524d",
+                "align_at": 12
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u827a",
+                "align_at": 13
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6027",
+                "align_at": 14
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u65e0",
+                "align_at": 17
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4eba",
+                "align_at": 18
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u65b9",
+                "align_at": 20
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8f7b",
+                "align_at": 22
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5c3d",
+                "align_at": 23
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5fc3",
+                "align_at": 28
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u751f",
+                "align_at": 29
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u708e",
+                "align_at": 32
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5171",
+                "align_at": 34
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u671b",
+                "align_at": 36
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u662f",
+                "align_at": 37
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u90fd",
+                "align_at": 38
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6ce2",
+                "align_at": 39
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e0d",
+                "align_at": 40
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5343",
+                "align_at": 46
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9664",
+                "align_at": 47
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u98de",
+                "align_at": 48
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9022",
+                "align_at": 51
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u706d",
+                "align_at": 52
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4eb2",
+                "align_at": 53
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5bc4",
+                "align_at": 59
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u76f8",
+                "align_at": 66
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u65e5",
+                "align_at": 69
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6848",
+                "align_at": 71
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7a7f",
+                "align_at": 77
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u673a",
+                "align_at": 78
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u514d",
+                "align_at": 84
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8f7d",
+                "align_at": 87
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u706f",
+                "align_at": 90
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7a77",
+                "align_at": 91
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8f6c",
+                "align_at": 93
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e0d",
+                "align_at": 97
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u521d",
+                "align_at": 99
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u751f",
+                "align_at": 100
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u745e",
+                "align_at": 101
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7740",
+                "align_at": 109
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u75c5",
+                "align_at": 110
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6740",
+                "align_at": 113
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8c01",
+                "align_at": 114
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u558a",
+                "align_at": 115
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5904",
+                "align_at": 121
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u77a7",
+                "align_at": 127
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6d4e",
+                "align_at": 129
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6070",
+                "align_at": 131
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u80cc",
+                "align_at": 132
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u65e7",
+                "align_at": 133
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8028",
+                "align_at": 135
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u52a8",
+                "align_at": 139
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4ed6",
+                "align_at": 141
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u547d",
+                "align_at": 142
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u98ce",
+                "align_at": 144
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5b50",
+                "align_at": 145
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5e08",
+                "align_at": 146
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e00",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u75d5",
+                "align_at": 1
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u523a",
+                "align_at": 2
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9759",
+                "align_at": 13
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9999",
+                "align_at": 14
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8352",
+                "align_at": 18
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e2a",
+                "align_at": 22
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6765",
+                "align_at": 23
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8f8f",
+                "align_at": 28
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5979",
+                "align_at": 29
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u751f",
+                "align_at": 32
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u770b",
+                "align_at": 34
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5c45",
+                "align_at": 36
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e00",
+                "align_at": 37
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u95ee",
+                "align_at": 38
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u638c",
+                "align_at": 39
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u89c1",
+                "align_at": 47
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7a7a",
+                "align_at": 48
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7779",
+                "align_at": 52
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5356",
+                "align_at": 53
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u62db",
+                "align_at": 59
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5eb7",
+                "align_at": 66
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6f84",
+                "align_at": 69
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7684",
+                "align_at": 71
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4f11",
+                "align_at": 77
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8fdc",
+                "align_at": 87
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5c06",
+                "align_at": 90
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u666f",
+                "align_at": 91
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u65f6",
+                "align_at": 92
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u767d",
+                "align_at": 93
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8981",
+                "align_at": 97
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u97f6",
+                "align_at": 99
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5f39",
+                "align_at": 100
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6cb3",
+                "align_at": 109
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5fe7",
+                "align_at": 113
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u529b",
+                "align_at": 115
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u662f",
+                "align_at": 121
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u88ab",
+                "align_at": 129
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6751",
+                "align_at": 131
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8010",
+                "align_at": 132
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7d22",
+                "align_at": 133
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5fae",
+                "align_at": 135
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u695e",
+                "align_at": 139
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6101",
+                "align_at": 141
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5e7c",
+                "align_at": 142
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e2d",
+                "align_at": 144
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6574",
+                "align_at": 145
+            }
+        ],
+        [
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9192",
+                "align_at": 0
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u767d",
+                "align_at": 1
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8f89",
+                "align_at": 2
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u521a",
+                "align_at": 12
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u662f",
+                "align_at": 13
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7389",
+                "align_at": 14
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u540c",
+                "align_at": 17
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7684",
+                "align_at": 18
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u9e3f",
+                "align_at": 22
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6869",
+                "align_at": 23
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6613",
+                "align_at": 28
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e00",
+                "align_at": 29
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5471",
+                "align_at": 32
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u94c1",
+                "align_at": 34
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u83ab",
+                "align_at": 36
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u91cf",
+                "align_at": 37
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u56fd",
+                "align_at": 38
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u526a",
+                "align_at": 39
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u75d5",
+                "align_at": 40
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6bbf",
+                "align_at": 46
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5e74",
+                "align_at": 47
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5f69",
+                "align_at": 48
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u884c",
+                "align_at": 51
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u52fe",
+                "align_at": 52
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7eac",
+                "align_at": 53
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6781",
+                "align_at": 59
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8fe6",
+                "align_at": 69
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5c0f",
+                "align_at": 71
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u79e4",
+                "align_at": 77
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8863",
+                "align_at": 78
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4eec",
+                "align_at": 84
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7eff",
+                "align_at": 87
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6211",
+                "align_at": 90
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5cf0",
+                "align_at": 91
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6797",
+                "align_at": 93
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5c06",
+                "align_at": 97
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u4e3a",
+                "align_at": 99
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5bb6",
+                "align_at": 100
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5df2",
+                "align_at": 101
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u610f",
+                "align_at": 110
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u534e",
+                "align_at": 113
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u79c0",
+                "align_at": 115
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u671d",
+                "align_at": 117
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5c06",
+                "align_at": 129
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u771f",
+                "align_at": 131
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5e95",
+                "align_at": 132
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5c11",
+                "align_at": 133
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5d29",
+                "align_at": 135
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u6625",
+                "align_at": 139
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u524d",
+                "align_at": 141
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u5929",
+                "align_at": 144
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u7b11",
+                "align_at": 145
+            },
+            {
+                "lyric_type": "Lyric",
+                "lyric": "\u8109",
+                "align_at": 146
+            }
+        ]
+    ]
+}
